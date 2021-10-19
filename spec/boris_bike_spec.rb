@@ -1,3 +1,5 @@
-describe DockingStation do # just a description
+require 'boris_bike'
+
+describe DockingStation do
   
 end
